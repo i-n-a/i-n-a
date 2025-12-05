@@ -61,5 +61,8 @@ I love combining code, visuals, and data to create interactive, poetic, or explo
 ---
 
 ## ✦ Connect
-📫 Email: inaluma.creative@gmail.com 
-📸 Instagram: _ina.luma_
+
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/i-n-n-a)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ina.luma_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ina-luma)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inaluma.creative@gmail.com)
