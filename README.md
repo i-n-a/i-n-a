@@ -1,4 +1,4 @@
-## 👋 Hi I'm Inge (aka Ina)
+## 👋 Hi I'm Inge (aka Ina Luma)
 
 <!--
 **i-n-a/i-n-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
