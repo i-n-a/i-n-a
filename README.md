@@ -53,11 +53,12 @@ I love combining code, visuals, and data to create interactive, poetic, or explo
 ---
 
 ## ✦ Tools & Technologies
+<!--
 **Creative Coding:** p5.js · ml5.js  · gsap
 **AI & Data:** Js ·ml5.js
 **Design:** Figma · Adobe Creative · Krita
 **Other:** Git · JavaScript · HTML/CSS  
-
+-->
 ### 💻 Tech Stack
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
